@@ -17,4 +17,4 @@ function b(c,a){
 }
 console.log(b(2,3));
 
-// Two way
+
