@@ -5,13 +5,9 @@
 // example: 3,20 -> 5,7,11,13,17,19
 
 function prime(n,m){
-    let a=0;
+    let a=[];
     for(let i=n;i<=m;i++){
-        if(i/1===0 && i/i===0){
-            console.log(i);
-            a=i;
-
-        }
+         
     }
     return a;
 }
