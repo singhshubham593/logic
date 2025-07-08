@@ -9,6 +9,7 @@ function prime(n,m){
     for(let i=n;i<=m;i++){
          
     }
+    
     return a;
 }
 prime(3,20);
