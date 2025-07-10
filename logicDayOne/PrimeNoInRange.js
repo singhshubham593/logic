@@ -14,8 +14,6 @@ function prime(n,m){
         }
          
     }
-    
-    
    // return a;
 }
 prime(3,9);
