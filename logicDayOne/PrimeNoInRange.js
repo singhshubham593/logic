@@ -6,6 +6,7 @@
 
 function prime(n,m){
     //let a=n;
+    
     for(let i=1;i<=m;i++){
         if(m%i!=0){
             console.log(i +" "+ "Non - Prime")
