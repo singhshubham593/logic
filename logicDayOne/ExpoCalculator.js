@@ -5,7 +5,6 @@
 // Return:Base to the power of exponent
 // Example: 2 ,3: 2*2*2=8
 
-//One way
 function b(c,a){
 
     let d=1;
