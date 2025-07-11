@@ -4,7 +4,6 @@
 // A palindrome is a word that reads the same backward or forward
 // Example: madam,level,abba
 
-
 function a(b){
     let c=b.split("");
     const d=c.length -1; //c.length-1 will give last index
